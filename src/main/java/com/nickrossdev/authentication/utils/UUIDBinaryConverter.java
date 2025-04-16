@@ -1,4 +1,4 @@
-package com.nickrossdev.authentication.util;
+package com.nickrossdev.authentication.utils;
 
 import jakarta.persistence.AttributeConverter;
 import jakarta.persistence.Converter;

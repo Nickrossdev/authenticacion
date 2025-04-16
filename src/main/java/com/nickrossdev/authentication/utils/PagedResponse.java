@@ -1,4 +1,4 @@
-package com.nickrossdev.authentication.util;
+package com.nickrossdev.authentication.utils;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
